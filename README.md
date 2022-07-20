@@ -1,1 +1,1 @@
-# vampiric-council
+# Vampiric Council
